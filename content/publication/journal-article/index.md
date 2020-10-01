@@ -10,11 +10,11 @@ authors:
 - JUN. Chen
 - YI. Guo 
 - XIN. Jiang* 
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+ - "Equal contribution"
+ - "Equal contribution"
 date: "2020-09-07T00:00:00Z"
-doi: ""
+doi: "10.1109ACCESS.2019.2957179"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-29T00:00:00Z"
