@@ -68,9 +68,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-# 在这里表示一个提示，出现在文章最下面
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
