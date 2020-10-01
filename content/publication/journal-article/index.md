@@ -1,15 +1,15 @@
 ---
 title: "Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality"
 authors:
-- JING. Fang# 
-- TAO. Wang#
-- CANCHENG. Li
-- XIPING. Hu
-- EDITH. Ngai
-- BOON-CHONG. Seet
-- JUN. Chen
-- YI. Guo 
-- XIN. Jiang* 
+- Jing. Fang# 
+- Tao. Wang#
+- Cancheng. Li
+- Xiping. Hu
+- Edith. Ngai
+- Boon-Chone. Seet
+- Jun. Chen
+- Yi. Guo 
+- Xin. Jiang* 
 author_notes:
  - "Equal contribution"
  - "Equal contribution"
