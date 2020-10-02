@@ -26,7 +26,7 @@ publishDate: "2020-09-29T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Sensors Journal"
+publication: "IEEE Access"
 publication_short: ""
 abstract: As depression becomes more commonplace in society, the timely and effective detection of the signs of depression for its prevention and early treatment becomes more important. Gait analysis can provide a contactless and low-cost method for depression diagnosis. In this study, we propose a novel gait assessment framework to implement non-intrusive, real-time and automatic depression detection using Kinect, an inexpensive and portable depth sensor. We focus on extracting a novel time-domain and frequency-domain feature (TF-feature) and a spatial geometric feature (SG-feature), and investigating the effectiveness of fused features in detecting depression for the non-contact gait data. A pseudo-velocity model is firstly built to analyze the gait abnormalities of individuals with depression in the time domain. Subsequently, we perform the power spectral density (PSD) analysis on the model to extract the TF-feature. Then, the covariance matrices and the symmetric Stein divergence (S-divergence) are leveraged to obtain the SG-feature, which is fused with TF-feature to form new features for classification. The experimental results on 95 subjects (43 scored-depressed and 52 non-depressed individuals) show that the proposed method achieves a good classification accuracy of 93.75%, has superior performance compared to several other methods, and significantly alleviates the impact of individual differences. These results indicate the efficacy and robustness of the proposed framework for depression detection.
 
@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sci-hub.tf/10.1109/ACCESS.2019.2957179
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8918399
 url_code: ''
 url_dataset: ''
 url_poster: ''
