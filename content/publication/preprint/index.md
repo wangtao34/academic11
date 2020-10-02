@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: 
 #  url:
-url_pdf: https://www.sci-hub.tf/10.1109/JSEN.2020.3022374
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9187648
 url_code: ''
 url_dataset: ''
 url_poster: ''
