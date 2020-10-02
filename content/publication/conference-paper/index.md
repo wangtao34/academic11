@@ -1,9 +1,14 @@
 ---
-title: "An example conference paper"
+title: "A Novel Gait Analysis Method Based on The Pseudo-velocity Model for Depression Detection"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Tao Wang
+- Jieqiong Sun
+- Jinlong Chao
+- Shuzhen Zheng
+- Chengjian Zhao
+- Chunyun Wu
+- Hong Peng*
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,34 +21,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In 2020 IEEE International Conference on E-health Networking, Application & Services
+publication_short: In HEALTHCOM
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: As the occurrence of depression in society becomes increasingly more common, it is an urgent task to find more objective and effective tools for real-time depression assessment. Gait analysis offers a new low-cost and contactless method for depression diagnosis. Therefore, interest in gait-based depression detection using depth sensors, such as Kinect, has grown rapidly in recent years. In this paper, a pseudo-velocity model is built to analyze the abnormal gait related to the depression by combining the velocity and angular velocity of the joints. Subsequently, we extract some features in time and frequency domain from our model to establish the classification model for depression detection. Experimental results on depression gait data recordings from 43 scored-depressed and 52 non-depressed individuals show that the proposed method achieves a good classification accuracy of 92.35% and is superior to other existing methods. The outstanding classification performance suggests that the proposed method has potential clinical value in depression detection.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: In this paper, a pseudo-velocity model is built to analyze the abnormal gait related to the depression by combining the velocity and angular velocity of the joints. Subsequently, we extract some features in time and frequency domain from our model to establish the classification model for depression detection. 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+# - name: Custom Link
+  # url: http://example.org
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -53,23 +56,10 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
