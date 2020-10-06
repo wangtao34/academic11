@@ -31,21 +31,22 @@ experience:
   date_start: "2019-04-01"
   description: |-
     Research Description:
-    * Constructing a gait video database of natural patients in a natural state of depression
-    * Exploring a standardized gait feature model for describing the difference between a depressed patient and a healthy person
+    * Constructing a gait video database of depressive patients and healthy people in a natural state
+    * Exploring the abnormal gait characteristics associated with depression
+    * Establishing a standardized gait feature model for describing the difference between a depressed patient and a healthy person
     * Technology includes information theory, pattern recognition, machine learning, Python and OpenCV
   location: Shenzhen
   title: Guest student
-- company: Gansu Provincial Key Laboratory of Wearable Computing
+- company: Ubiquitous Awareness and Intelligent Solutions Lab (UAIS LAB)
   company_url: "http://uais.lzu.edu.cn/"
   date_end: ""
   date_start: "2018-09-01"
   description: |-
     Research Description:
-    * Constructing a novel gait assessment framework was proposed to implement non-intrusive, real-time and automatic depression detection using Kinect;
-    * Research on feature extraction and recognition classification algorithms of EEG signals, and classification of specific emotions of military soldiers on specific occasions;
-    * Participating in the acquisition of multi-mode biological signals in the several kinds of projects. I master Keil Vision5, Altium Designer, Solidworks and have STM32 and FPGA usage experience;
-    * Main results were published in journals and conferences including IEEE Sensors Journal , IEEE Access, Neurocomputing, BIBM2019, Healthcom2018, etc.
+    * A novel gait assessment framework was proposed to implement non-intrusive, real-time and automatic depression detection using Kinect
+    * Built innovatively a pseudo-velocity model to analyze the gait abnormalities of patients with depression, and explored the gait spatial information for skeleton-based recognition tasks using deep learning based on Riemannian manifolds
+    * Research on feature extraction and recognition classification algorithms of EEG signals, and classification of specific emotions of military soldiers on specific occasions
+    * Participate in the collection of a variety of biological signals and development of acquisition equipment. I master Keil Vision5, Altium Designer, Solidworks and have STM32 and FPGA usage experience;
   location: Lanzhou
   title: Research assistant
 ---
