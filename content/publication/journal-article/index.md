@@ -10,9 +10,9 @@ authors:
 - Jun. Chen
 - Yi. Guo 
 - Xin. Jiang* 
-author_notes:
- - "Equal contribution"
- - "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2020-09-07T00:00:00Z"
 doi: "10.1109/ACCESS.2019.2957179"
 
