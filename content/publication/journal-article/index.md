@@ -13,7 +13,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-09-07T00:00:00Z"
+date: "2019-12-02T00:00:00Z"
 doi: "10.1109/ACCESS.2019.2957179"
 
 # Schedule page publish date (NOT publication's date).
