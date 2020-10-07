@@ -1,5 +1,6 @@
 ---
-title: "A novel automatic classification detection for epileptic seizure based on dictionary learning and sparse representation"
+title: "A Novel Automatic Classification Detection for Epileptic Seizure Based on Dictionary Learning and Sparse Representation"
+
 authors:
 - Hong Peng
 - Cancheng Li
