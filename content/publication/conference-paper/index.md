@@ -1,5 +1,5 @@
 ---
-title: "A Novel Gait Analysis Method Based on The Pseudo-velocity Model for Depression Detection"
+title: "A Novel Gait Analysis Method Based on The Pseudo-velocity Model for Depression Detection (In Press)"
 authors:
 - Tao Wang
 - Jieqiong Sun
