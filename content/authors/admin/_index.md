@@ -24,7 +24,7 @@ interests:
 - Machine Learning and pattern recognition
 - Medical Signal Processing
 - Behavioral Analysis of Medical Disorders
-- Neurophysiology
+- Brain Network and Brain-Computer Interface
 
 
 
