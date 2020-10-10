@@ -1,5 +1,5 @@
 ---
-title: "An Application of Affective Computing on Mental Disorders: A Resting State fNIRS Study (Under Review)"
+title: "An Application of Affective Computing on Mental Disorders: A Resting State fNIRS Study (In Press)"
 authors:
 - Chunyun Wu
 - Jieqiong Sun
