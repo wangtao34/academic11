@@ -22,9 +22,10 @@ organizations:
 
 interests:
 - Machine Learning and pattern recognition
-- Behavioral Analysis of Depressive Disorder
-- Computational Neuroscience
-- Brain Network and Brain-Computer Interface
+- Medical Signal Processing
+- Behavioral Analysis of Medical Disorders
+- Neurophysiology
+
 
 
 education:
