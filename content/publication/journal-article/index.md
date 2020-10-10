@@ -1,5 +1,5 @@
 ---
-title: "Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality （In Press）"
+title: "Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality"
 authors:
 - Jing. Fang# 
 - Tao. Wang#
