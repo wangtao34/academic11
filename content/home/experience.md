@@ -33,8 +33,7 @@ experience:
     Research Description:
     * Constructing a gait video database of depressive patients and healthy people in a natural state
     * Exploring the abnormal gait characteristics associated with depression
-    * Establishing a standardized gait feature model for describing the difference between a depressed patient and a healthy person
-    * Technology includes information theory, pattern recognition, machine learning, Python and OpenCV
+    * Establishing a standardized gait feature model for describing the difference between depressed patients and a healthy persons
   location: Shenzhen
   title: Guest student
 - company: Ubiquitous Awareness and Intelligent Solutions Lab (UAIS LAB)
@@ -45,8 +44,8 @@ experience:
     Research Description:
     * A novel gait assessment framework was proposed to implement non-intrusive, real-time and automatic depression detection using Kinect
     * Built innovatively a pseudo-velocity model to analyze the gait abnormalities of patients with depression, and explored the gait spatial information for skeleton-based recognition tasks using deep learning based on Riemannian manifolds
-    * Research on feature extraction and recognition classification algorithms of EEG signals, and classification of specific emotions of military soldiers on specific occasions
-    * Participate in the collection of a variety of biological signals and development of acquisition equipment. I master Keil Vision5, Altium Designer, Solidworks and have STM32 and FPGA usage experience;
+    * Research on feature extraction and recognition algorithms of EEG signals, and classification of specific emotions of military soldiers on specific occasions
+    * Participate in the collection of a variety of biological signals and development of acquisition equipment. I master Keil Vision5, Altium Designer, Solidworks and have STM32 usage experience;
   location: Lanzhou
   title: Research assistant
 ---
