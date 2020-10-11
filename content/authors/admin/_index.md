@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-He is currently pursuing a master’s degree at Lanzhou University (Ubiquitous Awareness and Intelligent Solutions Lab，UAIS), China. He received the bachelor’s degree from Zhengzhou University, China, in 2018.  He is also a guest student at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences in 2019. His research focuses on bioelectrical signal processing and automated mental disorder detection.
+He is currently pursuing a master’s degree at Lanzhou University (Ubiquitous Awareness and Intelligent Solutions Lab, UAIS), China. He received the bachelor’s degree from Zhengzhou University, China, in 2018.  He is also a guest student at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences in 2019. His research focuses on bioelectrical signal processing and automated mental disorder detection.
