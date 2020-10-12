@@ -33,7 +33,7 @@ experience:
     Research Description:
     * Constructing a gait video database of depressive patients and healthy people in a natural state
     * Exploring the abnormal gait characteristics associated with depression
-    * Establishing a standardized gait feature model for describing the difference between depressed patients and a healthy persons
+    * Establishing a standardized gait feature model for describing the difference between depressed patients and healthy persons
   location: Shenzhen
   title: Guest student
 - company: Ubiquitous Awareness and Intelligent Solutions Lab (UAIS LAB)
