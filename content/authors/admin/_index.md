@@ -33,7 +33,7 @@ education:
  # - course: PhD in Artificial Intelligence
  #   institution: Stanford University
  #   year: 2012
-  - course: MEng in Electronic and communication engineering
+  - course: MEng in Electronics and communication engineering
     institution: Lanzhou University
     year: 2021
   - course: BSc in Measurement and Control Technology and Instruments
